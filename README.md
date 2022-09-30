@@ -1,7 +1,7 @@
 # OnlyGoodDogo's App
 This app let's you search the type of alchol that you want to drink and show's a list of cocktails, instructions and ingrediants.
 
-**Link to project:** https://findyourfavecocktail.netlify.app
+**Link to project:** https://onlydogs.netlify.app
 
 
 
